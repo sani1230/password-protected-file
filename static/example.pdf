@@ -1,0 +1,11 @@
+inti-python env
+install necessary libraries through command"pip install flask pillow"
+run bash command python app.py
+and you will see the link like http://100.000.00:5000   "example"
+and you will see your app 
+if you want to cast on others mobile use ngrok - https://ngrok.com/download
+ngrok setup:||
+|--1. download ngrok
+|--2. open this py file "python app.py" in you bash
+|--3. open ngrok(run ngrok)
+|--4. run this command "ngrok http 5000" -- example 
